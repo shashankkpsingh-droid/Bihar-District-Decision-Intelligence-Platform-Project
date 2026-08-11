@@ -235,7 +235,7 @@ The project includes measures related to:
 - Rainfall variance/deviation
 - District-level analytical comparisons
 
-Detailed DAX documentation is available in the **Documentation** folder.
+Detailed DAX documentation is available in the **Documentations** folder.
 
 ---
 
@@ -256,11 +256,11 @@ The dashboard follows a consistent visual design across pages:
 
 ---
 
-## 📚 Project Documentation
+## 📚 Project Documentations
 
 The repository contains supporting documentation covering the development and analytical structure of the project.
 
-Documentation includes:
+Documentations includes:
 
 - Data Dictionary
 - DAX Documentation
@@ -272,7 +272,7 @@ Documentation includes:
 - Project Presentation / Case Study
 - Supporting screenshots
 
-Please refer to the **Documentation** folder for the detailed files.
+Please refer to the **Documentations** folder for the detailed files.
 
 ---
 
@@ -288,7 +288,7 @@ Major source categories represented in the dashboard are:
 - **Rainfall Data (2026)**
 - **District Master**
 
-The exact source details, fields, transformations, assumptions, and limitations are documented separately in the project documentation.
+The exact source details, fields, transformations, assumptions, and limitations are documented separately in the project documentations.
 
 ---
 
@@ -305,7 +305,7 @@ Important limitations include:
 - The dashboard should not be treated as an official real-time government decision system.
 - Results depend on the quality, coverage, definitions, and reporting periods of the underlying datasets.
 
-Users should refer to the source documentation before using results for operational or policy decisions.
+Users should refer to the source documentations before using results for operational or policy decisions.
 
 ---
 
@@ -355,7 +355,7 @@ Bihar-District-Decision-Intelligence-Platform-Project/
 │
 ├── BDDIP_Project Final report/
 │   │
-│   ├── Documentation/
+│   ├── Documentations/
 │   │
 │   ├── Presentation/
 │   │
@@ -370,7 +370,7 @@ Bihar-District-Decision-Intelligence-Platform-Project/
 └── README.md
 ```
 
-> **Note:** The Power BI project file is intentionally not included in the public repository. The repository focuses on the portfolio presentation, documentation, screenshots, and analytical methodology.
+> **Note:** The Power BI project file is intentionally not included in the public repository. The repository focuses on the portfolio presentation, documentations, screenshots, and analytical methodology.
 
 ---
 
@@ -384,7 +384,7 @@ Recommended order:
 4. **Education Intelligence**
 5. **Rainfall Intelligence**
 6. **District Profile**
-7. **Documentation**
+7. **Documentations**
 8. **Project Presentation**
 
 The screenshots above demonstrate the final report layout and the type of interactive analysis available in the original Power BI report.
@@ -393,7 +393,7 @@ The screenshots above demonstrate the final report layout and the type of intera
 
 ## 🔗 Project Resources
 
-- [Documentation Folder](./BDDIP_Project%20Final%20report/Documentation/)
+- [Documentations Folder](./BDDIP_Project%20Final%20report/Documentations/)
 - [Presentation Folder](./BDDIP_Project%20Final%20report/Presentation/)
 - [Dashboard Screenshots](./BDDIP_Project%20Final%20report/Screenshots/)
 
